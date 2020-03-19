@@ -9,10 +9,10 @@ def blight_model():
     from sklearn.metrics import roc_auc_score
 
     # load data
-    train = pd.read_csv('train.csv', encoding="ISO-8859-1")
-    test = pd.read_csv('test.csv')
-    addresses = pd.read_csv('addresses.csv')
-    latlons = pd.read_csv('latlons.csv')
+    train = pd.read_csv('dataset/train.csv', encoding="ISO-8859-1")
+    test = pd.read_csv('dataset/test.csv')
+    addresses = pd.read_csv('dataset/addresses.csv')
+    latlons = pd.read_csv('dataset/latlons.csv')
 
     # pre-processing
 
