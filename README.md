@@ -1,11 +1,11 @@
-# Random-Forest-Regressor
-
-Application of the Random Forest Regressor
-
-Analyzing Complex dataset, pre-processing, predicting the statistical model and evaluating the model score using the AUC 
+## Predictive modeling using Random forest Regressor 
+Task objective: To predict whether a given blight ticket will be paid on time, based on previously observed data
 
 Application content:
-- loading dataset 
-- pre-processing the dataset
-- training and testing the model 
-- Evaluation of the model score using the AUC
+- Data Visualization 
+- Data Pre-Processing
+- Defining the model
+- Model Evaluation
+- Model Predictions
+
+Model precision evaluated over 80%
