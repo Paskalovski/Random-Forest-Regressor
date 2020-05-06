@@ -1,4 +1,4 @@
-## Predictive modeling using Random forest Regressor 
+### Predictive modeling using Random forest Regressor 
 Task objective: To predict whether a given blight ticket will be paid on time, based on previously observed data
 
 Application content:
